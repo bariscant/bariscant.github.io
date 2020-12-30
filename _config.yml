@@ -9,7 +9,7 @@ name: Barış Can Terzioğlu
 description: DevOps Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/bariscant/bariscant.github.io/master/images/P_20190427_180127_BOK_2.jpg
+avatar: ./images/image.jpg
 
 #
 # Flags below are optional
@@ -22,11 +22,11 @@ footer-links:
   facebook:
   flickr:
   github: bariscant
-  instagram:
+  instagram: bariscanterzioglu
   linkedin: bariscanterzioglu
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: bariscterzioglu
   stackoverflow: users/3088079/barış-can-terzioğlu # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
